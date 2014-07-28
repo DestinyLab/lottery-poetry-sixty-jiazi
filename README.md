@@ -1,4 +1,4 @@
-# Lottery-Poetry-Sixty-Jiazi
+# Lottery-Poetry-Sixty-Jiazi（六十甲子籤詩）
 
 Lottery-Poetry-Sixty-Jiazi is the data of Lottery-Poetry-Engine.
 
