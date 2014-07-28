@@ -1,0 +1,22 @@
+{
+    "name": "destinylab/lottery-poetry-sixty-jiazi",
+    "description": "Lottery poetry - Sixty Jiazi",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lance He",
+            "email": "indigofeather@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0",
+        "destinylab/lottery-poetry-engine": "dev-master",
+        "symfony/yaml": "~2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "DestinyLab\\LotteryPoetry\\": "src/"
+        }
+    }
+}

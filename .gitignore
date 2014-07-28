@@ -1,0 +1,11 @@
+*~
+*.bak
+.idea
+*.sublime-project
+*.sublime-workspace
+composer.phar
+composer.lock
+vendor
+index.php
+tests/_output/*
+tests/_output/*
